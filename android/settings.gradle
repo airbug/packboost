@@ -1,0 +1,3 @@
+rootProject.name = 'packboost'
+
+include ':app'
